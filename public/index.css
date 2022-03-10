@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "PoppinsBlack";
+    src: local("PoppinsBlack");
+    url("./fonts/Poppins/Poppins-Black.ttf") format("truetype");
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    font-family: "PoppinsBlack", sans-serif;
+}
